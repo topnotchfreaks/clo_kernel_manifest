@@ -26,7 +26,6 @@
     <linkfile dest="build/static_analysis" src="static_analysis"/>
   </project>
   <project path="kernel_msm-5.15" name="kernel_msm-5.15" remote="tnf" revision="main" />
-  </project>
   <project remote="clo-la" name="kernel/prebuilts/build-tools" path="prebuilts/kernel-build-tools" revision="a27755ba41db8a1487c7d2ac7d0da22ec5e593c7" upstream="refs/heads/ks-kernel.lnx.2.0.r1-rel"/>
   <project remote="clo-la" name="kernel_platform/build/bazel_common_rules" path="build/bazel_common_rules" revision="2158c0cec82374e92e9599e3a8fd9ec5c10ba7ad" upstream="refs/heads/ks-kernel.lnx.2.0.r1-rel"/>
   <project remote="clo-la" name="kernel_platform/external/bazel-skylib" path="external/bazel-skylib" revision="8908ad2471f44bf192a869189c35fb74ff8aa307" upstream="refs/heads/ks-kernel.lnx.2.0.r1-rel"/>
