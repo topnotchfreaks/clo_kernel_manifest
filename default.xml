@@ -24,10 +24,6 @@
     <linkfile src="abi" dest="kernel_platform/build/abi"/>
     <linkfile src="static_analysis" dest="kernel_platform/build/static_analysis"/>
   </project>
-  <project name="kernel/common" path="kernel_platform/common" revision="4473f79670b481473f2a47c854fa3fac494fbfa6" upstream="refs/heads/ks-kernel.lnx.2.0.r14-rel" groups="qki">
-    <linkfile src="." dest=".source_date_epoch_dir"/>
-  </project>
-  <project name="kernel/msm-5.15" path="kernel_platform/msm-kernel" revision="abd0ffc753132b27aff38fd2696cd01fc5b25797" upstream="refs/heads/kernel.lnx.5.15.r16-rel"/>
   <project name="kernel/prebuilts/build-tools" path="kernel_platform/prebuilts/kernel-build-tools" revision="766e9f47cc12f94ea33e4ea7f2d53ed9ffdbe903" upstream="refs/heads/ks-kernel.lnx.2.0.r14-rel" />
   <project name="kernel_platform/build/bazel_common_rules" revision="ec82e5136465e3afa57433261e90c82b548793ad" upstream="refs/heads/ks-kernel.lnx.2.0.r14-rel"/>
   <project name="kernel_platform/external/bazel-skylib" revision="928f837bc57a82e7d80a898db45d37a8da335150" upstream="refs/heads/ks-kernel.lnx.2.0.r14-rel"/>
