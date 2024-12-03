@@ -5,7 +5,7 @@
   
  <project name="kernel/build" path="device/qcom/kernelscripts" revision="93af6081d5d204c2c4e6aacfdb7d2b719fa375ea" upstream="LA.UM.8.15.c25"/>
   <project name="kernel/configs" revision="32935040384ccfb8d1049fda667fad150c8506ac" upstream="LA.UM.8.15.c25" groups="aosp-android10-release,pdk,vts"/>
-  <project name="kernel/msm-4.19" revision="9fe3bc9063e60cede075c4900bfb02b671a5df50" upstream="LA.UM.8.15.c25" groups="cyborg"/>
+  <!--project name="kernel/msm-4.19" revision="9fe3bc9063e60cede075c4900bfb02b671a5df50" upstream="LA.UM.8.15.c25" groups="cyborg"/-->
   <project name="kernel/tests" revision="392f8a97e8ae68a9367a5bba22cd3439a0b3b385" upstream="LA.UM.8.15.c25" groups="aosp-android10-release,pdk,vts"/>
   <project name="platform/art" path="art" revision="fb7066fd918d18cb8d314428ffa8e0f8083f348e" upstream="LA.UM.8.15.c25" groups="aosp-android10-release,pdk"/>
   <project name="platform/bionic" path="bionic" revision="f95de47a51aa78e4e54f08689cb38ca94cfb239c" upstream="LA.UM.8.15.c25" groups="aosp-android10-release,pdk"/>
