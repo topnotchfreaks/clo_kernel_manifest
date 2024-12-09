@@ -40,4 +40,4 @@
 
   <!--common-clang-->
   <!--project remote="common" name="platform/prebuilts/clang/host/linux-x86" path="prebuilts/clang/host/linux-x86" revision="main"/-->
-</manifest>
+<manifest>
