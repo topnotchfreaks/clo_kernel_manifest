@@ -36,7 +36,6 @@
   <project remote="clo-la" name="kernel_platform/prebuilts/jdk/jdk11" path="kernel_platform/prebuilts/jdk/jdk11" revision="1dd4b5221b2c28b236be1f58082673d34724bb1a" upstream="refs/heads/ks-kernel.lnx.2.0.r14-rel"/>
   <project remote="clo-la" name="kernel_platform/system/tools/mkbootimg" path="kernel_platform/tools/mkbootimg" revision="f2eb91d983b42c014ee1a911965d51499e2b08d9" upstream="refs/heads/ks-kernel.lnx.2.0.r14-rel"/>
   <project remote="clo-la" name="kernel_platform/toolchain/prebuilts/ndk/r23" path="kernel_platform/prebuilts/ndk-r23" revision="93532f3052c14fbb337ff57d5732128dc7481ee6" upstream="refs/heads/ks-kernel.lnx.2.0.r14-rel"/>
-  <!--project remote="clo-la" name="ker<!--project remote="clo-la" name="kernelplatform/prebuilts-master/clang/host/linux-x86" path="kernel_platform/prebuilts/clang/host/linux-x86" revision="b75008e4544bc723b147032b2dbcbc85ef54365f" upstream="refs/heads/ks-kernel.lnx.2.0.r14-rel"/-->
   <project remote="clo-la" name="kernelplatform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" path="kernel_platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" revision="369c42eaba15b5b6ca44dc16745b2ff44511a043" upstream="refs/heads/ks-kernel.lnx.2.0.r14-rel"/>
 
   <!--common-clang-->
