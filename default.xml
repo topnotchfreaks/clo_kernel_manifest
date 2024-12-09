@@ -39,5 +39,5 @@
   <project remote="clo-la" name="kernelplatform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" path="kernel_platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" revision="369c42eaba15b5b6ca44dc16745b2ff44511a043" upstream="refs/heads/ks-kernel.lnx.2.0.r14-rel"/>
 
   <!--common-clang-->
-  <project remote="common" name="platform/prebuilts/clang/host/linux-x86" path="prebuilts/clang/host/linux-x86" revision="main"/>
+  <!--project remote="common" name="platform/prebuilts/clang/host/linux-x86" path="prebuilts/clang/host/linux-x86" revision="main"/-->
 </manifest>
